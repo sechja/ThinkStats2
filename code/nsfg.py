@@ -13,7 +13,7 @@ import thinkstats2
 
 from collections import defaultdict
 
-
+work_dir = "Users/jakubsechter/GitHub/ThinkStats2/code"
 def ReadFemResp(dct_file='2002FemResp.dct',
                 dat_file='2002FemResp.dat.gz',
                 nrows=None):
